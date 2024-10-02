@@ -28,4 +28,12 @@
   />
 </picture>
 
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=lalaio1&theme=default&hide_border=true&stroke=333333&background=ffffff&ring=000000&fire=ff4500&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=808080" />
+</div>
+
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>

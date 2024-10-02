@@ -31,6 +31,7 @@
 
 <div align="center" style="margin-top: 20px;">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=lalaio1&hide_border=true&stroke=000000&background=ffffff00&ring=ffffff&fire=ff4500&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffffb3" />
+
 </div>
 
 
